@@ -84,4 +84,7 @@ public class Date {
       return false;
     }
   }
+  public void methodAddedByTheOwner(){
+    System.out.println("method added by ilia");
+  }
 }
